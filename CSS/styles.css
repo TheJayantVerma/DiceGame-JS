@@ -1,0 +1,42 @@
+body {
+    background-color: gray;
+    padding: 10% 0 0 0;
+    text-align: center;
+}
+
+button {
+    margin: 1% 2%;
+}
+
+.player-block {
+    display: inline-block;
+    margin: 0% 5%;
+}
+
+footer {
+    color: beige;
+    padding: 25px 0 0 0;
+}
+
+h1 {
+    color: bisque;
+    font-family: 'Tangerine', cursive;
+    font-size: 5rem;
+    font-weight: 900;
+    padding: 0 0 3% 0;
+}
+
+h2, h3 {
+    color: aquamarine;
+    font-family: 'Marck Script', cursive;
+    font-size: 3rem;
+    font-weight: lighter;   
+}
+
+h2 {
+    padding: 25px 0 0 0;
+}
+
+img {
+    width: 75%;
+}
